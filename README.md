@@ -1,0 +1,1 @@
+# smart-house-plan-generator
